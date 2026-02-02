@@ -1,13 +1,13 @@
 <h1 align="center">Привет, меня зовут Антон. 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;Telegram+Bot+Creator;AI+%26+Gemini+Enthusiast;Clean+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;Network+Automation+%26+VPN;Telegram+Bot+Architect;AI+%26+Gemini+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <b>🐍 Python-разработчик</b>, увлеченный автоматизацией и искусственным интеллектом.
+ <b>🐍 Python-разработчик</b>, создающий сложные экосистемы в Telegram.
  <br/>
- Создаю умных ботов на <b>Aiogram</b> и внедряю нейросети в повседневные задачи.
+ Специализируюсь на автоматизации сетевой инфраструктуры (VPN), CRM-системах и внедрении нейросетей.
 </p>
 
 ---
@@ -16,12 +16,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Aiogram-Telegram_Bots-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Aiogram-3.x-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
+  <img src="https://img.shields.io/badge/MariaDB-High_Load-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/SQLite-Lightweight-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <br/>
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/AI-Gemini_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Marzban-VPN_Core-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Marzban"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Git-Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -30,8 +32,10 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **🎙️ GolosVText** | Бот-секретарь. Принимает голосовые сообщения и мгновенно переводит их в текст с помощью **Gemini AI**. | `Python` `Aiogram` `Gemini API` |
-| **📥 Media-Downloader** | Универсальный загрузчик контента. Скачивает видео из TikTok и YouTube без водяных знаков. | `Python` `yt-dlp` `Parsing` |
+| **☁️ NeuroCloud OS** | **Флагманский проект.** Полноценная CRM для управления VPN-сервисом. <br>• Управление пользователями через Marzban API.<br>• Прием платежей (СБП) и авто-выдача подписок.<br>• Облачные бэкапы в Google Drive.<br>• **Фича:** Интерактивные инструкции реализованы через **Telegram WebApps** (хостинг GitHub Pages). | `Python` `MariaDB` `Marzban` `GCloud` `WebApp` |
+| **🎮 United Gamers Loyal** | Цифровая система лояльности для компьютерного клуба. Замена бумажных карт на QR-коды, админ-панель для персонала, система наград (Free Night/Hookah) и защита от фрода. | `Python` `Aiogram` `SQLite` `QRCode` |
+| **🎙️ GolosVText** | Умный секретарь. Принимает ГС и видео-кружочки, мгновенно переводит их в текст и делает саммари (краткую выжимку) с помощью **Gemini 2.0 Flash**. | `Python` `Gemini API` `FFmpeg` |
+| **📥 Media-Downloader** | Универсальный загрузчик контента. Скачивает видео из TikTok (без вотермарок) и YouTube в высоком качестве, обходя региональные ограничения. | `Python` `yt-dlp` `Parsing` |
 
 ---
 
