@@ -1,13 +1,13 @@
 <h1 align="center">Привет, меня зовут Антон. 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;Network+Automation+%26+VPN;Telegram+Bot+Architect;AI+%26+Gemini+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;Network+Infrastructure+Engineer;DevOps+%26+Docker+User;System+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <b>🐍 Python-разработчик</b>, создающий сложные экосистемы в Telegram.
+ <b>🐍 Python-разработчик и сетевой инженер</b>.
  <br/>
- Специализируюсь на автоматизации сетевой инфраструктуры (VPN), CRM-системах и внедрении нейросетей.
+ Не просто пишу код, а <b>строю сервисы с нуля (From A to Z)</b>: от настройки серверов и Docker-контейнеров до бэкенда и пользовательских интерфейсов.
 </p>
 
 ---
@@ -16,14 +16,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Aiogram-3.x-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
-  <img src="https://img.shields.io/badge/MariaDB-High_Load-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQLite-Lightweight-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Docker-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <br/>
+  <img src="https://img.shields.io/badge/MariaDB-Database-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Aiogram-3.x-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
   <img src="https://img.shields.io/badge/Marzban-VPN_Core-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Marzban"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Git-Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -32,10 +31,10 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **☁️ NeuroCloud OS** | **Флагманский проект.** Полноценная CRM для управления VPN-сервисом. <br>• Управление пользователями через Marzban API.<br>• Прием платежей (СБП) и авто-выдача подписок.<br>• Облачные бэкапы в Google Drive.<br>• **Фича:** Интерактивные инструкции реализованы через **Telegram WebApps** (хостинг GitHub Pages). | `Python` `MariaDB` `Marzban` `GCloud` `WebApp` |
-| **🎮 United Gamers Loyal** | Цифровая система лояльности для компьютерного клуба. Замена бумажных карт на QR-коды, админ-панель для персонала, система наград (Free Night/Hookah) и защита от фрода. | `Python` `Aiogram` `SQLite` `QRCode` |
-| **🎙️ GolosVText** | Умный секретарь. Принимает ГС и видео-кружочки, мгновенно переводит их в текст и делает саммари (краткую выжимку) с помощью **Gemini 2.0 Flash**. | `Python` `Gemini API` `FFmpeg` |
-| **📥 Media-Downloader** | Универсальный загрузчик контента. Скачивает видео из TikTok (без вотермарок) и YouTube в высоком качестве, обходя региональные ограничения. | `Python` `yt-dlp` `Parsing` |
+| **☁️ NeuroCloud OS** | **Full-Stack VPN Service Infrastructure.**<br>Реализован полный цикл (от А до Я):<br>• **Инфраструктура:** Развернута сеть серверов (Entry Node РФ ➔ Exit Node NL) в Docker-контейнерах.<br>• **Сеть:** Настроена сложная маршрутизация (Split-Tunneling) и маскировка трафика (VLESS + Reality).<br>• **Бэкенд:** Собственная CRM-система в Telegram для управления подписками, оплатой и пользователями.<br>• **Frontend:** Инструкции через Telegram WebApps. | `Docker` `Linux Networking` `Python` `Marzban` `MariaDB` |
+| **🎮 United Gamers Loyal** | Цифровая экосистема лояльности для компьютерного клуба. Полная автоматизация учета клиентов: QR-идентификация, защита от фрода, админ-панель и аналитика. | `Python` `Aiogram` `SQLite` `Security` |
+| **🎙️ GolosVText** | AI-сервис для обработки речи. Принимает ГС и видео-кружочки, проводит транскрибацию и суммаризацию (выжимку сути) через **Gemini 2.0 Flash**. | `Python` `Gemini API` `FFmpeg` |
+| **📥 Media-Downloader** | High-performance загрузчик медиа. Парсинг API TikTok и YouTube для скачивания "чистого" контента без водяных знаков и ограничений. | `Python` `yt-dlp` `Reverse Engineering` |
 
 ---
 
