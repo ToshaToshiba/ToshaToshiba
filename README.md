@@ -1,44 +1,48 @@
-<h1 align="center">Привет, меня зовут Антон. 👋</h1>
+<h1 align="center">TechPoly Development 🛠️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;Network+Infrastructure+Engineer;DevOps+%26+Docker+User;System+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Engineering+Software+Development;Industrial+Automation;Highload+Telegram+Ecosystems;C%2B%2B+%2F+Python+%2F+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <b> Python-разработчик и сетевой инженер</b>.
+ <b>Студия разработки инженерного ПО и автоматизации бизнеса.</b>
  <br/>
- Не просто пишу код, а <b>строю сервисы с нуля (от А до Я)</b>: от настройки серверов и Docker-контейнеров до бэкенда и пользовательских интерфейсов.
+ Мы — команда инженеров из МосПолитеха. Создаем решения "под ключ": от расчетов прочности и геометрии (C++) до сложных облачных инфраструктур (Docker/Python) и веб-интерфейсов.
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">📚 Наш Стек Технологий</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <br/>
-  <img src="https://img.shields.io/badge/MariaDB-Database-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/Aiogram-3.x-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
-  <img src="https://img.shields.io/badge/Marzban-VPN_Core-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Marzban"/>
+  <img src="https://img.shields.io/badge/C++-Engineering_Core-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Qt-Desktop_Apps-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/React-Web_Interfaces-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-Server_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🚀 Ключевые Проекты Команды</h3>
 
-| Проект | Описание | Стек |
+| Направление | Проект | Описание |
 | :--- | :--- | :--- |
-| **☁️ NeuroCloud OS** | **Full-Stack VPN Service Infrastructure.**<br>Реализован полный цикл (от А до Я):<br>• **Инфраструктура:** Развернута сеть серверов (Entry Node РФ ➔ Exit Node NL) в Docker-контейнерах.<br>• **Сеть:** Настроена сложная маршрутизация (Split-Tunneling) и маскировка трафика (VLESS + Reality).<br>• **Бэкенд:** Собственная CRM-система в Telegram для управления подписками, оплатой и пользователями.<br>• **Frontend:** Инструкции через Telegram WebApps. | `Docker` `Linux Networking` `Python` `Marzban` `MariaDB` |
-| **🎮 United Gamers Loyal** | Цифровая экосистема лояльности для компьютерного клуба. Полная автоматизация учета клиентов: QR-идентификация, защита от фрода, админ-панель и аналитика. | `Python` `Aiogram` `SQLite` `Security` |
-| **🎙️ GolosVText** | AI-сервис для обработки речи. Принимает ГС и видео-кружочки, проводит транскрибацию и суммаризацию (выжимку сути) через **Gemini 2.0 Flash**. | `Python` `Gemini API` `FFmpeg` |
-| **📥 Media-Downloader** | High-performance загрузчик медиа. Парсинг API TikTok и YouTube для скачивания "чистого" контента без водяных знаков и ограничений. | `Python` `yt-dlp` `Reverse Engineering` |
+| **🌐 Infrastructure** | **NeuroCloud OS** | Полноценная экосистема VPN-сервиса. <br>• Развернута сеть серверов в Docker (РФ ➔ NL).<br>• Сложная маршрутизация и маскировка трафика.<br>• CRM-система управления подписками. |
+| **🏭 Engineering** | **Industrial Box Calc** | Ядро для расчета геометрии картонной упаковки (стандарты FEFCO). <br>• Высокопроизводительный C++ модуль.<br>• Оптимизация раскроя материала. |
+| **🤖 AI & Voice** | **GolosVText Enterprise** | Сервис транскрибации и аналитики речи. <br>• Интеграция с Gemini 2.0 Flash.<br>• Суммаризация совещаний и голосовых заметок. |
+| **📱 Frontend** | **TG WebApp Dashboard** | Реактивный интерфейс для управления бизнес-процессами внутри Telegram. <br>• React.js + Telegram SDK.<br>• Визуализация метрик в реальном времени. |
+| **⚙️ Automation** | **CRM Sync Workflows** | Набор сценариев n8n для синхронизации заявок.<br>• Telegram ➔ Google Sheets ➔ CRM.<br>• Автоматическое выставление счетов. |
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Статистика Разработки</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ToshaToshiba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
@@ -48,7 +52,8 @@
 ---
 
 <p align="center">
+  <b>Готовы обсудить ваш проект?</b><br>
   <a href="https://t.me/TONY_DIAM0ND">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact"/>
+    <img src="https://img.shields.io/badge/Связаться_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact"/>
   </a>
 </p>
