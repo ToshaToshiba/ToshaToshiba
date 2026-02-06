@@ -16,37 +16,41 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <br/>
   <img src="https://img.shields.io/badge/C++-Engineering_Core-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Qt-Desktop_Apps-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
   <br/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/Docker-Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Marzban-VPN_Core-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Marzban"/>
+  <br/>
   <img src="https://img.shields.io/badge/React-Web_Interfaces-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-Server_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Aiogram-Telegram_Bots-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
 </p>
 
 ---
 
 <h3 align="center">🚀 Ключевые Проекты Команды</h3>
 
-| Направление | Проект | Описание |
-| :--- | :--- | :--- |
-| **🌐 Infrastructure** | **NeuroCloud OS** | Полноценная экосистема VPN-сервиса. <br>• Развернута сеть серверов в Docker (РФ ➔ NL).<br>• Сложная маршрутизация и маскировка трафика.<br>• CRM-система управления подписками. |
-| **🏭 Engineering** | **Industrial Box Calc** | Ядро для расчета геометрии картонной упаковки (стандарты FEFCO). <br>• Высокопроизводительный C++ модуль.<br>• Оптимизация раскроя материала. |
-| **🤖 AI & Voice** | **GolosVText Enterprise** | Сервис транскрибации и аналитики речи. <br>• Интеграция с Gemini 2.0 Flash.<br>• Суммаризация совещаний и голосовых заметок. |
-| **📱 Frontend** | **TG WebApp Dashboard** | Реактивный интерфейс для управления бизнес-процессами внутри Telegram. <br>• React.js + Telegram SDK.<br>• Визуализация метрик в реальном времени. |
-| **⚙️ Automation** | **CRM Sync Workflows** | Набор сценариев n8n для синхронизации заявок.<br>• Telegram ➔ Google Sheets ➔ CRM.<br>• Автоматическое выставление счетов. |
+| Направление | Проект | Описание | Стек |
+| :--- | :--- | :--- | :--- |
+| **🌐 Infra** | **☁️ NeuroCloud OS** | **Full-Stack VPN Service Infrastructure.**<br>Реализован полный цикл (от А до Я):<br>• **Инфраструктура:** Развернута сеть серверов (Entry Node РФ ➔ Exit Node NL) в Docker-контейнерах.<br>• **Сеть:** Настроена сложная маршрутизация (Split-Tunneling) и маскировка трафика (VLESS + Reality).<br>• **Бэкенд:** Собственная CRM-система в Telegram для управления подписками, оплатой и пользователями.<br>• **Frontend:** Инструкции через Telegram WebApps. | `Docker` `Linux Networking` `Python` `Marzban` `MariaDB` |
+| **🏭 Eng.** | **📦 Industrial Box Calc** | Ядро для расчета геометрии картонной упаковки (стандарты FEFCO). <br>• Высокопроизводительный C++ модуль.<br>• Оптимизация раскроя материала. | `C++` `CMake` `Math` |
+| **🎮 Loyalty** | **👾 United Gamers Loyal** | Цифровая экосистема лояльности для компьютерного клуба. Полная автоматизация учета клиентов: QR-идентификация, защита от фрода, админ-панель и аналитика. | `Python` `Aiogram` `SQLite` `Security` |
+| **🎙️ AI** | **🗣️ GolosVText** | AI-сервис для обработки речи. Принимает ГС и видео-кружочки, проводит транскрибацию и суммаризацию (выжимку сути) через **Gemini 2.0 Flash**. | `Python` `Gemini API` `FFmpeg` |
+| **📱 Frontend** | **📊 TG WebApp Dashboard** | Реактивный интерфейс для управления бизнес-процессами внутри Telegram. <br>• React.js + Telegram SDK.<br>• Визуализация метрик в реальном времени. | `React` `JS` `Telegram SDK` |
+| **📥 Media** | **🎬 Media-Downloader** | High-performance загрузчик медиа. Парсинг API TikTok и YouTube для скачивания "чистого" контента без водяных знаков и ограничений. | `Python` `yt-dlp` `Reverse Engineering` |
+| **⚙️ Auto** | **🔄 CRM Sync Workflows** | Набор сценариев n8n для синхронизации заявок.<br>• Telegram ➔ Google Sheets ➔ CRM.<br>• Автоматическое выставление счетов. | `n8n` `JSON` `Webhooks` |
 
 ---
 
-<h3 align="center">📊 Статистика Разработки</h3>
+<h3 align="center">📊 Технический Профиль</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshaToshiba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaToshiba&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaToshiba&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
+</p>
+
+<p align="center">
+  <i>⚠️ Основная активность команды ведется в приватных репозиториях и корпоративном GitLab под NDA. <br> Здесь представлены только Open Source компоненты и демо-стенды.</i>
 </p>
 
 ---
