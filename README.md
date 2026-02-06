@@ -43,12 +43,6 @@
 
 ---
 
-<h3 align="center">📊 Технический Профиль</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaToshiba&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
-</p>
-
 <p align="center">
   <i>⚠️ Основная активность команды ведется в приватных репозиториях и корпоративном GitLab под NDA. <br> Здесь представлены только Open Source компоненты и демо-стенды.</i>
 </p>
