@@ -1,19 +1,35 @@
-<h1 align="center">DevUnit Lab 🔬</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,25&text=DevUnit%20Lab&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff&desc=Backend%20%26%20Infrastructure%20Engineering&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="DevUnit Lab"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Engineering+Software+Unit;Telegram+Billing+%26+Ticket+Systems;Distributed+VPN+Infrastructure;Embedded+ESP32+%2B+Raspberry+Pi;Low-Latency+Media+Streaming;DevOps+%2F+Python+%2F+Go+%2F+n8n" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Антон Сергеев</b> — backend & infrastructure engineer, DevUnit Lab<br/>
-  <a href="https://devunit-lab.ru">🇷🇺 devunit-lab.ru</a> • <a href="https://devunit-lab.business">🌍 devunit-lab.business</a><br/>
+  <b>Антон Сергеев</b> — backend & infrastructure engineer<br/>
   <i>Moscow & Chisinau</i>
 </p>
 
 <p align="center">
+  <a href="https://devunit-lab.ru">
+    <img src="https://img.shields.io/badge/🇷🇺_devunit--lab.ru-Сайт_студии-12141a?style=for-the-badge" alt="devunit-lab.ru"/>
+  </a>
+  <a href="https://devunit-lab.business">
+    <img src="https://img.shields.io/badge/🌍_devunit--lab.business-International-12141a?style=for-the-badge" alt="devunit-lab.business"/>
+  </a>
   <a href="https://t.me/tosha_DevUnit">
     <img src="https://img.shields.io/badge/Telegram-tosha__DevUnit-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ToshaToshiba?style=for-the-badge&logo=github&color=181717&label=Followers&labelColor=12141a" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ToshaToshiba&style=for-the-badge&color=58A6FF&label=Profile+Views&labelColor=12141a" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <b>🌐 <a href="https://devunit-lab.ru">devunit-lab.ru</a></b> — витрина студии: услуги, кейсы, контакты. Сейчас в разработке новая версия, здесь же появится ссылка на обновлённый сайт.
 </p>
 
 ---
@@ -254,7 +270,12 @@
 <p align="center">
   <b>Открыт к сотрудничеству</b><br/>
   Разработка Telegram-сервисов · Биллинг и автоматизация · Сетевая инфраструктура · Embedded и IoT<br/><br/>
+  <a href="https://devunit-lab.ru">
+    <img src="https://img.shields.io/badge/🇷🇺_devunit--lab.ru-12141a?style=for-the-badge" alt="devunit-lab.ru"/>
+  </a>
   <a href="https://t.me/tosha_DevUnit">
     <img src="https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,25&section=footer" alt=""/>
